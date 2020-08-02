@@ -1,2 +1,3 @@
 # parser_wiberis
-Wildberries parser 
+
+Simple wildberries parser on bs4
